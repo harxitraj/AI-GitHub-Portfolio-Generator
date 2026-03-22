@@ -74,3 +74,30 @@ body {
 .card:hover {
     transform: translateY(-5px);
 }
+
+/* Generator Page */
+.container {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+input {
+    padding: 12px;
+    width: 250px;
+    border-radius: 6px;
+    border: none;
+    margin-right: 10px;
+}
+
+button {
+    padding: 12px 20px;
+    background: #238636;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2ea043;
+}
